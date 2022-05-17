@@ -1,0 +1,40 @@
+.gloom {
+  position: absolute;
+  height: 80px;
+  width: 100%;
+  background-color: rgb(206, 206, 206);
+}
+
+#lilblue {
+  margin: 15px 15px;
+  background-color: rgb(78, 78, 231);
+  height: 50px;
+  width: 50px;
+  z-index: 2;
+}
+
+#silly {
+  height: 100px;
+}
+
+section {
+  height: 200px;
+}
+
+p {
+  margin: 15px 15px;
+}
+
+#blue {
+  background-color: rgb(46, 81, 155);
+}
+#green {
+  background-color: rgb(50, 152, 111);
+}
+#more-green {
+  background-color: rgb(117, 197, 117);
+}
+
+#yeelow {
+  background-color: rgb(193, 193, 43);
+}

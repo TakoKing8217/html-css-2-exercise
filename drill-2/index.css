@@ -1,0 +1,60 @@
+.black-outline {
+  margin: 15px 15px;
+  display: flex;
+  border: 3px solid black;
+  align-items: flex-end;
+}
+
+.dotted-outline {
+  margin: 15px 15px;
+  display: flex;
+  align-content: center;
+  border: 3px dotted black;
+}
+
+.shadowed-outline {
+  display: flex;
+  justify-content: center;
+  margin: 15px 15px;
+}
+#purple {
+  margin: 15px 15px;
+  height: 80px;
+  width: 30px;
+  background-color: rgb(123, 15, 206);
+}
+#green {
+  margin: 15px 15px;
+  height: 100px;
+  width: 250px;
+  background-color: green;
+}
+#blue {
+  margin: 15px 15px;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(62, 175, 204);
+  border-radius: 100%;
+}
+
+#wide-post-it {
+  margin: 20px 25px;
+  background-color: rgb(247, 247, 121);
+  height: 100px;
+  width: 90%;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#friends-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  outline: 1px solid rgb(196, 196, 196);
+  background-color: rgb(255, 255, 255);
+  height: 180px;
+  width: 300px;
+  box-shadow: 5px 5px 5px rgb(92, 92, 92);
+  font-size: large;
+  font-weight: bold;
+  text-align: center;
+}
